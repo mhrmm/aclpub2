@@ -265,7 +265,7 @@ Those scripts are designed to be used by the workshop's Program Chairs due to ac
 ### Before running the scripts
 
 #### Requirements
-Those scripts require Python3 and OpenReview API installed on your machine. For installing OpenReview API, please go to https://openreview-py.readthedocs.io/en/latest/how_to_setup.html
+Those scripts require Python3 and OpenReview API installed on your machine. For installing OpenReview API, please go to https://docs.openreview.net/getting-started/using-the-api/installing-and-instantiating-the-python-client
 
 #### Updated data
 The scripts based on OpenReview API retrieve all information directly from OpenReview. In other words, all SACs, reviewers and authors must have their OpenReview profiles updated (mainly name and affiliation).
